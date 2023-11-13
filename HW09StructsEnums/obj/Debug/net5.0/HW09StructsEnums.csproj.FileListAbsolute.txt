@@ -1,0 +1,16 @@
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\bin\Debug\net5.0\HW09StructsEnums.exe
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\bin\Debug\net5.0\HW09StructsEnums.deps.json
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\bin\Debug\net5.0\HW09StructsEnums.runtimeconfig.json
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\bin\Debug\net5.0\HW09StructsEnums.runtimeconfig.dev.json
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\bin\Debug\net5.0\HW09StructsEnums.dll
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\bin\Debug\net5.0\ref\HW09StructsEnums.dll
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\bin\Debug\net5.0\HW09StructsEnums.pdb
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\obj\Debug\net5.0\HW09StructsEnums.csproj.AssemblyReference.cache
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\obj\Debug\net5.0\HW09StructsEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\obj\Debug\net5.0\HW09StructsEnums.AssemblyInfoInputs.cache
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\obj\Debug\net5.0\HW09StructsEnums.AssemblyInfo.cs
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\obj\Debug\net5.0\HW09StructsEnums.csproj.CoreCompileInputs.cache
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\obj\Debug\net5.0\HW09StructsEnums.dll
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\obj\Debug\net5.0\ref\HW09StructsEnums.dll
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\obj\Debug\net5.0\HW09StructsEnums.pdb
+C:\Users\ElRomario\source\repos\HW09StructsEnums\HW09StructsEnums\obj\Debug\net5.0\HW09StructsEnums.genruntimeconfig.cache

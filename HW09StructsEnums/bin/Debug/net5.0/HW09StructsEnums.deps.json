@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HW09StructsEnums/1.0.0": {
+        "runtime": {
+          "HW09StructsEnums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW09StructsEnums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
